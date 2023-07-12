@@ -30,7 +30,7 @@ git clone -b v3.2 --recursive https://github.com/espressif/esp-idf.git esp-idf-v
 
 ## Lab Setup / Wiring Diagram
 
-![Wiring Diagram - Project esp32_jsnsr04t_using_lib-01.png](.\_doc\Wiring Diagram - Project esp32_jsnsr04t_using_lib-01.png)
+![Wiring Diagram - Project esp32_jsnsr04t_using_lib-01.png](_doc/Wiring%20Diagram%20-%20Project%20esp32_jsnsr04t_using_lib-01.png)
 
 
 
@@ -41,7 +41,7 @@ Sensor board    =>	ESP32 Development Board
 --------------      -----------------------
 1   5V              3.3V pin (not the 5V or VUSB pin!)
 2   Trig            GPIO#16 (Adafruit Huzzah32 pin 16 @ bottomleft-2)
-3	Echo            GPIO#14 (Adafruit Huzzah32 pin 14 @ bottomright-2)
+3   Echo            GPIO#14 (Adafruit Huzzah32 pin 14 @ bottomright-2)
 4   GND             GND pin
 ```
 
